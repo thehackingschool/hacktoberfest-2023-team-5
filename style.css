@@ -1,0 +1,44 @@
+/* .navbar{
+    bs-navbar-nav-link-padding-x: 1.5rem;
+} */
+
+h1 {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h2 {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h4 {
+    padding: 20px 20px;
+}
+
+.intro{
+    text-align: center;
+
+}
+
+.welcome {
+    padding: 10rem;
+}
+
+.about {
+    padding: 10rem;
+}
+
+#welcome-section {
+    background-color: brown;
+    color: azure;
+}
+
+#contact-us {
+    background-color: #303841;
+    color: azure;
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+}
